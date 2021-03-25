@@ -15,7 +15,7 @@ namespace VisualStudio
     {
         public Startup(IConfiguration configuration)
         {
-            //Changes 
+            //Changes Made
             Configuration = configuration;
         }
 
