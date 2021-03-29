@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6iRtBF/e7l9+Ae5ov/h1HNtsQvPk7wwLcn2Z2ghG1ruzgIFnIfe7VD8224AuS2YfaxQ/q1GzgggboI0bhIrEog==",
+  "dgSpecHash": "3W7eYYlCYDgORb1dl6RPK2W0GvQddWT2KTOPjUwvx5yMNQHjPlgJJvN2fvo2OFb7N+E1ZS6Y7D5MPH9c8jL3Zw==",
   "success": true,
   "projectFilePath": "C:\\Users\\saleh\\source\\repos\\VisualStudio\\VisualStudio\\VisualStudio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\saleh\\.nuget\\packages\\best.codeanalysis.static\\0.7.5\\best.codeanalysis.static.0.7.5.nupkg.sha512",
+    "C:\\Users\\saleh\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -15,7 +15,7 @@ namespace VisualStudio
     {
         public Startup(IConfiguration configuration)
         {
-            //Changes Made
+            //Changes Made for static analysis
             Configuration = configuration;
         }
 
